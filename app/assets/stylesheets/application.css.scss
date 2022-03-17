@@ -4,14 +4,17 @@
 // Configuration
 @import "config/variables";
 @import "config/reset";
+@import "config/animations";
 
 // Components
+@import "components/navbar";
 @import "components/btn";
 @import "components/error_message";
 @import "components/form";
 @import "components/visually_hidden";
 @import "components/quote";
 @import "components/turbo_progress_bar";
+@import "components/flash";
 
 // Layouts
 @import "layouts/container";
